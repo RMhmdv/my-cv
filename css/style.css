@@ -25,12 +25,15 @@ body {
   padding-bottom: 40px;
 }
 .my-photo {
-  width: 370px;
+  width: 120px;
+  display: block;
+  /* max-width: 100%;
+  height: auto; */
+  margin: 0 auto;
 }
 .my-sertyf {
-  width: 310px;
-  margin-top: 50px;
-  margin-left: 30px;
+  width: 300px;
+  margin: 20px 20px;
 }
 .about-me-container {
   padding: 25px;
